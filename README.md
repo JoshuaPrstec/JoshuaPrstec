@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on creating an Edge extension that allows people to quickly switch google account users.
+I’m currently working on making a stopwatch app that can share its results via bluetooth.
 <!--
 **JoshuaPrstec/JoshuaPrstec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
